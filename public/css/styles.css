@@ -1,0 +1,23 @@
+*{
+    padding:0;margin:0;box-sizing: border-box;
+}
+
+body{
+    background-color: #E8ECEF;
+}
+
+.centered{
+    padding-top: 200px;
+    text-align:center;
+}
+
+.btn{
+    margin-right:10px;
+}
+
+.secret-text{
+    text-align:center;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #000;
+}
